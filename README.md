@@ -14,7 +14,7 @@
 本软件目前处于测试阶段，如有任何 Bug反馈 或 建议 请提交于此仓库[Issues](https://github.com/MoyouDE/ATranslator-Release/issues)页面
 
 ## 使用预览
-![Example](https://github.com/MoyouDE/ATranslator-Release/assets/44468640/9946b825-8039-45e0-a069-6e66f0150b6c)
+![展示画面](https://github.com/MoyouDE/ATranslator-Release/assets/44468640/1142acb2-428e-4c4e-8d1e-32d89246e34c)
 
 ## 使用说明  
 （编辑中）
