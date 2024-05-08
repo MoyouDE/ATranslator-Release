@@ -1,1 +1,1 @@
-{"SkipHideFolder":true,"DisplaySpecificFileTypes":true,"TextMatchRules":[{"FileRegex":".*","ContentRegex":";(.+?)$"},{"FileRegex":".*","ContentRegex":"//(.+?)$"},{"FileRegex":"\\.xml$","ContentRegex":"<*?>(.*?)<.*?>"}]}
+{"SkipHideFolder":true,"DisplaySpecificFileTypes":true,"TextMatchRules":[{"FileRegex":".*","ContentRegex":";(.+?)$"},{"FileRegex":".*","ContentRegex":"//(.+?)$"},{"FileRegex":"\\.xml$","ContentRegex":"<*?>([^<>]*?)<\\/.*?>"}]}
